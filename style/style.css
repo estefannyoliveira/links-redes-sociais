@@ -11,7 +11,7 @@
     --color03: #41b9f5;
     
 }
-body{
+body,html{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,6 +39,7 @@ section{
     /*background-color: rgb(72, 197, 250);*/
     background-color: var(--color02);
     box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.307);
+    transform: translateY(-5%);
     
 }
 header img{
