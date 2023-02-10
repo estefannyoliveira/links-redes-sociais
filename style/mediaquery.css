@@ -9,6 +9,7 @@
     }
     section{
         width: 560px;
+        height: 330px;
         flex-direction:inherit ;
 
     }
