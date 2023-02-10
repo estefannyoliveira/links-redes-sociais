@@ -23,6 +23,7 @@ body{
   
 }
 
+
 section{
    /*Para alinhar os itens:*/
    display: flex;
@@ -31,7 +32,7 @@ section{
    justify-content: center;
    align-items: center;
 
-    width: 350px;
+    width: 320px;
     padding: 40px 20px;
     border-radius: 18px;
    

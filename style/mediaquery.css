@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+@media screen and (min-width:992px) {
+    body, html{
+        background-color: black;
+    }
+    header{
+        margin: 0 20px;
+    }
+    section{
+        width: 560px;
+        flex-direction:inherit ;
+
+    }
+
+   main{    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   }
+
+   main ul{
+    margin: 0 20px;
+   }
+
+
+}
