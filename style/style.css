@@ -15,7 +15,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 100%;
     background-size: 100%;
     /*background-color: #5cd9d7;*/
     /*background-color: var(--color01);*/
